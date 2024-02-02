@@ -1,0 +1,6 @@
+path: D:\iit\eagle_detector\data
+train: images\train
+val: images\train
+
+names:
+  0: eagle
